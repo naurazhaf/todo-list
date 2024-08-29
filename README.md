@@ -13,3 +13,12 @@ This is a simple and responsive To-Do List application built using React.js. The
 
 - **React.js:** A JavaScript library for building user interfaces.
 - **CSS:** For styling the components and creating a visually appealing design.
+
+## Interface
+### add tasks
+<img width="857" alt="Screenshot 2024-08-29 at 18 56 56" src="https://github.com/user-attachments/assets/c5643f0f-ceed-4660-a5a0-98911fa4a140">
+
+### edit task
+<img width="836" alt="Screenshot 2024-08-29 at 18 57 34" src="https://github.com/user-attachments/assets/aabc5da9-73fe-44a7-85e8-2c2b3d9e2b83">
+
+
